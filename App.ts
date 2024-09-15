@@ -22,7 +22,7 @@ class Car implements Vehicle {
 
   // implement the start method for the Car class
   start(): void {
-    console.log('Car engine started');
+    console.log("Car engine started, vroom vroom!!!! 🚗. We are going to Mr Usman's village");
   }
 }
 
